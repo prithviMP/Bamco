@@ -39,7 +39,7 @@ left:600px;
 	
 }
 .intro-section {
-    height: 100%;
+    height:100%;
     padding-top: 150px;
 	padding-bottom:150px;
     text-align: left;
@@ -49,22 +49,23 @@ left:600px;
 
 
 .about-section {
-    height: 150%;
-    padding-top: 150px;
+    height: 650px;
+    padding-top: 90px;
+    padding-bottom:150px;
     text-align:center;
     background: #eee;
 }
 
 .services-section {
     height: 100%;
-    padding-top: 150px;
+    padding-top: 50px;
     text-align: left;
     background: #fff;
 	padding-bottom:300px;
 }
 .careers-section {
     height: 100%;
-    padding-top: 150px;
+    padding-top: 50px;
     text-align: left;
     background: #eee;
 	padding-bottom:300px;
@@ -73,7 +74,7 @@ left:600px;
 
 .contact-section {
     height: 100%;
-    padding-top: 150px;
+    padding-top: 50px;
     text-align: left;
     background: #fff;
 }
